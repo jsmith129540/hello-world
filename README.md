@@ -2,7 +2,6 @@
 my first repository
 
 # This will make and h1 tag set
-## this will make an h2 tag set
 
 - item1 in a list
 - item 21 in a list
